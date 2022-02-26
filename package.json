@@ -1,0 +1,23 @@
+{
+  "name": "nem",
+  "version": "1.0.0",
+  "description": "Node.js , Express.js , MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsalan8252/Nem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsalan8252/Nem/issues"
+  },
+  "homepage": "https://github.com/arsalan8252/Nem#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
